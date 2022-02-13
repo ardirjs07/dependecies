@@ -1,0 +1,14 @@
+[
+  {
+    "BALL0": { "OUTS": 0, "RGBA": [255, 0, 0],    "NAME": "RED"       },
+    "BALL1": { "OUTS": 1, "RGBA": [0, 255, 0],    "NAME": "LIME"      },
+    "BALL2": { "OUTS": 2, "RGBA": [0, 0, 255],    "NAME": "BLUE"      },
+    "BALL3": { "OUTS": 3, "RGBA": [255, 255, 0],  "NAME": "YELLOW"    },
+    "BALL4": { "OUTS": 4, "RGBA": [0, 255, 255],  "NAME": "CYAN"      },
+    "BALL5": { "OUTS": 5, "RGBA": [255, 0, 255],  "NAME": "MAGENTA"   },
+    "BALL6": { "OUTS": 6, "RGBA": [128, 0, 0],    "NAME": "MAROON"    },
+    "BALL7": { "OUTS": 7, "RGBA": [0, 128, 0],    "NAME": "GREEN"     },
+    "BALL8": { "OUTS": 8, "RGBA": [0, 0, 128],    "NAME": "NAVY"      },
+    "BALL9": { "OUTS": 9, "RGBA": [128, 128, 0],  "NAME": "OLIVE"     }
+  }
+]
